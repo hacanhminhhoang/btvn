@@ -20,5 +20,6 @@ class Program
         string[] words = s.Split(' ', StringSplitOptions.RemoveEmptyEntries);
 
         Console.WriteLine("So tu trong chuoi: " + words.Length);
+        Console.WriteLine("Ha Canh Minh Hoang. Msv: 2415053122219");
     }
 }

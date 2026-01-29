@@ -18,5 +18,6 @@ class Program
             }
         }
         Console.WriteLine($"So phan tu hop le (khac null/rong): {count}");
+        Console.WriteLine("Ha Canh Minh Hoang. Msv: 2415053122219");
     }
 }

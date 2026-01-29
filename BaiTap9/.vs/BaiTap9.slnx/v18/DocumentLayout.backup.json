@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\NITRO 16\\source\\repos\\BaiTap9\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2517A545-D7CF-483F-B9C5-7860F7B94A8F}|BaiTap9\\BaiTap9.csproj|c:\\users\\nitro 16\\source\\repos\\baitap9\\baitap9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2517A545-D7CF-483F-B9C5-7860F7B94A8F}|BaiTap9\\BaiTap9.csproj|solutionrelative:baitap9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7ACD0D87-9554-A3A6-6636-FFA1AD37FE0B}|BaiTap9\\BaiTap9.csproj|c:\\users\\nitro 16\\source\\repos\\baitap9\\baitap9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ACD0D87-9554-A3A6-6636-FFA1AD37FE0B}|BaiTap9\\BaiTap9.csproj|solutionrelative:baitap9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,9 +22,9 @@
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\NITRO 16\\source\\repos\\BaiTap9\\BaiTap9\\Program.cs",
               "RelativeDocumentMoniker": "BaiTap9\\Program.cs",
-              "ToolTip": "C:\\Users\\NITRO 16\\source\\repos\\BaiTap9\\BaiTap9\\Program.cs",
-              "RelativeToolTip": "BaiTap9\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABeAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\NITRO 16\\source\\repos\\BaiTap9\\BaiTap9\\Program.cs*",
+              "RelativeToolTip": "BaiTap9\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-29T09:43:45.339Z",
               "EditorCaption": ""

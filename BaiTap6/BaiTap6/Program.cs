@@ -31,5 +31,6 @@ class Program
             }
         }
         Console.WriteLine($"So phan tu chan trong mang: {count}");
+        Console.WriteLine("Ha Canh Minh Hoang. Msv: 2415053122219");
     }
 }

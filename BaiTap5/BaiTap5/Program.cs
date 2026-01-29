@@ -31,5 +31,6 @@ class Program
             }
         }
         Console.WriteLine($"Gia tri lon nhat la: {max}");
+        Console.WriteLine("Ha Canh Minh Hoang. Msv: 2415053122219");
     }
 }

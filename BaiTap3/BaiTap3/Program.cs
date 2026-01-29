@@ -12,12 +12,8 @@ class Program
         }
         string temp = "";
         for (int i = 0; i < s.Length; i++)
-        {
             if (s[i] != ' ')
-            {
                 temp += s[i];
-            }
-        }
         int left = 0;
         int right = temp.Length - 1;
         bool doiXung = true;
@@ -33,8 +29,14 @@ class Program
         }
 
         if (doiXung)
+        {
             Console.WriteLine("Chuoi doi xung");
+            Console.WriteLine("Ha Canh Minh Hoang. Msv: 2415053122219");
+        }
         else
+        {
             Console.WriteLine("Chuoi khong doi xung");
-    }
+            Console.WriteLine("Ha Canh Minh Hoang. Msv: 2415053122219");
+        }
+        }
 }

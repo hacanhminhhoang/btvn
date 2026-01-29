@@ -21,5 +21,6 @@ class Program
         string normalizedName = string.Join(" ", words);
 
         Console.WriteLine("Ho ten sau khi chuan hoa: " + normalizedName);
+        Console.WriteLine("Ha Canh Minh Hoang. Msv: 2415053122219");
     }
 }

@@ -29,5 +29,6 @@ class Program
         }
 
         Console.WriteLine($"Tong cac phan tu: {sum}");
+        Console.WriteLine("Ha Canh Minh Hoang. Msv: 2415053122219");
     }
 }

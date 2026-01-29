@@ -24,5 +24,6 @@ class Program
         {
             Console.WriteLine(word);
         }
+        Console.WriteLine("Ha Canh Minh Hoang. Msv: 2415053122219");
     }
 }

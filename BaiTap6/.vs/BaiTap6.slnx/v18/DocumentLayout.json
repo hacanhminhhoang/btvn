@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\NITRO 16\\source\\repos\\BaiTap6\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C621B4C3-799D-4607-B04A-B15BD4707A5B}|BaiTap6\\BaiTap6.csproj|c:\\users\\nitro 16\\source\\repos\\baitap6\\baitap6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C621B4C3-799D-4607-B04A-B15BD4707A5B}|BaiTap6\\BaiTap6.csproj|solutionrelative:baitap6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FEA4E062-E80A-B077-648C-BC84E55ADFEF}|BaiTap6\\BaiTap6.csproj|c:\\users\\nitro 16\\source\\repos\\baitap6\\baitap6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEA4E062-E80A-B077-648C-BC84E55ADFEF}|BaiTap6\\BaiTap6.csproj|solutionrelative:baitap6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,7 +24,7 @@
               "RelativeDocumentMoniker": "BaiTap6\\Program.cs",
               "ToolTip": "C:\\Users\\NITRO 16\\source\\repos\\BaiTap6\\BaiTap6\\Program.cs",
               "RelativeToolTip": "BaiTap6\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-29T09:35:26.265Z",
               "EditorCaption": ""
