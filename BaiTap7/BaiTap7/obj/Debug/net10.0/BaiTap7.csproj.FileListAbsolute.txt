@@ -1,0 +1,14 @@
+C:\Users\NITRO 16\source\repos\BaiTap7\BaiTap7\bin\Debug\net10.0\BaiTap7.exe
+C:\Users\NITRO 16\source\repos\BaiTap7\BaiTap7\bin\Debug\net10.0\BaiTap7.deps.json
+C:\Users\NITRO 16\source\repos\BaiTap7\BaiTap7\bin\Debug\net10.0\BaiTap7.runtimeconfig.json
+C:\Users\NITRO 16\source\repos\BaiTap7\BaiTap7\bin\Debug\net10.0\BaiTap7.dll
+C:\Users\NITRO 16\source\repos\BaiTap7\BaiTap7\bin\Debug\net10.0\BaiTap7.pdb
+C:\Users\NITRO 16\source\repos\BaiTap7\BaiTap7\obj\Debug\net10.0\BaiTap7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NITRO 16\source\repos\BaiTap7\BaiTap7\obj\Debug\net10.0\BaiTap7.AssemblyInfoInputs.cache
+C:\Users\NITRO 16\source\repos\BaiTap7\BaiTap7\obj\Debug\net10.0\BaiTap7.AssemblyInfo.cs
+C:\Users\NITRO 16\source\repos\BaiTap7\BaiTap7\obj\Debug\net10.0\BaiTap7.csproj.CoreCompileInputs.cache
+C:\Users\NITRO 16\source\repos\BaiTap7\BaiTap7\obj\Debug\net10.0\BaiTap7.dll
+C:\Users\NITRO 16\source\repos\BaiTap7\BaiTap7\obj\Debug\net10.0\refint\BaiTap7.dll
+C:\Users\NITRO 16\source\repos\BaiTap7\BaiTap7\obj\Debug\net10.0\BaiTap7.pdb
+C:\Users\NITRO 16\source\repos\BaiTap7\BaiTap7\obj\Debug\net10.0\BaiTap7.genruntimeconfig.cache
+C:\Users\NITRO 16\source\repos\BaiTap7\BaiTap7\obj\Debug\net10.0\ref\BaiTap7.dll

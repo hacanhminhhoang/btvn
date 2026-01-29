@@ -1,0 +1,14 @@
+C:\Users\NITRO 16\source\repos\BaiTap3\BaiTap3\bin\Debug\net10.0\BaiTap3.exe
+C:\Users\NITRO 16\source\repos\BaiTap3\BaiTap3\bin\Debug\net10.0\BaiTap3.deps.json
+C:\Users\NITRO 16\source\repos\BaiTap3\BaiTap3\bin\Debug\net10.0\BaiTap3.runtimeconfig.json
+C:\Users\NITRO 16\source\repos\BaiTap3\BaiTap3\bin\Debug\net10.0\BaiTap3.dll
+C:\Users\NITRO 16\source\repos\BaiTap3\BaiTap3\bin\Debug\net10.0\BaiTap3.pdb
+C:\Users\NITRO 16\source\repos\BaiTap3\BaiTap3\obj\Debug\net10.0\BaiTap3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NITRO 16\source\repos\BaiTap3\BaiTap3\obj\Debug\net10.0\BaiTap3.AssemblyInfoInputs.cache
+C:\Users\NITRO 16\source\repos\BaiTap3\BaiTap3\obj\Debug\net10.0\BaiTap3.AssemblyInfo.cs
+C:\Users\NITRO 16\source\repos\BaiTap3\BaiTap3\obj\Debug\net10.0\BaiTap3.csproj.CoreCompileInputs.cache
+C:\Users\NITRO 16\source\repos\BaiTap3\BaiTap3\obj\Debug\net10.0\BaiTap3.dll
+C:\Users\NITRO 16\source\repos\BaiTap3\BaiTap3\obj\Debug\net10.0\refint\BaiTap3.dll
+C:\Users\NITRO 16\source\repos\BaiTap3\BaiTap3\obj\Debug\net10.0\BaiTap3.pdb
+C:\Users\NITRO 16\source\repos\BaiTap3\BaiTap3\obj\Debug\net10.0\BaiTap3.genruntimeconfig.cache
+C:\Users\NITRO 16\source\repos\BaiTap3\BaiTap3\obj\Debug\net10.0\ref\BaiTap3.dll
